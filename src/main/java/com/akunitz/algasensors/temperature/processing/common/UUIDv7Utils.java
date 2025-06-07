@@ -1,4 +1,4 @@
-package com.akunitz.algasensors.temperature.processing;
+package com.akunitz.algasensors.temperature.processing.common;
 
 import java.time.Instant;
 import java.time.OffsetDateTime;
